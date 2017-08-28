@@ -20,7 +20,7 @@
 		</property>
 	</bean>
 	
-	<bean id="PlayerBusiness" parent="transactionProxyTemplace">
+	<bean id="PlayerBusiness" parent="transactionProxyTemplate">
 		<property name="target">
 			<bean class="framgiavn.project01.web.business.impl.PlayerBusinessImpl">
 				<property name="playerDAO" ref="PlayerDAO"/>

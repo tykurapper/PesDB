@@ -92,6 +92,11 @@ public class PlayerInfo {
 	public void setAbility(Ability ability) {
 		this.ability = ability;
 	}
+	
+	public PlayerInfo() {
+		
+	}
+	
 	public PlayerInfo(Player p) {
 		setId(p.getPlayer_id());
 		setAbilities(p.getAbility());

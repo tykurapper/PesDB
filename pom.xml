@@ -10,7 +10,7 @@
 		<tiles-version>2.3.31</tiles-version>
 		<spring-version>4.1.4.RELEASE</spring-version>
 		<spring-security-version>4.0.4.RELEASE</spring-security-version>
-		<hibernate-version>4.3.8.Final</hibernate-version>
+		<hibernate-version>3.6.10.Final</hibernate-version>
 		<strust-version>2.3.20</strust-version>
 		<mysql-connector>6.0.6</mysql-connector>
 	</properties>

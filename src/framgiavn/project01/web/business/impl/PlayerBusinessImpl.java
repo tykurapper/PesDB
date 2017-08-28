@@ -8,7 +8,7 @@ import framgiavn.project01.web.dao.PlayerDAO;
 import framgiavn.project01.web.info.PlayerInfo;
 import framgiavn.project01.web.model.Player;
 
-public class PlayerBussinessImpl implements PlayerBusiness {
+public class PlayerBusinessImpl implements PlayerBusiness {
 	
 	public PlayerDAO playerDAO;
 	
